@@ -1,4 +1,4 @@
-#Overloading in python is done by two ways by using default arguments and *args and **kwargs arguments
+#Overloading in python is done by two ways by using default arguments,*args and **kwargs arguments
 class A:
     def m1(self,*args):
         if len(args)==1:
